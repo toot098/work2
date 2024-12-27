@@ -1,0 +1,61 @@
+body{
+	
+background-image:url(9.jpeg);
+background-repeat: no-repeat;
+background-size:cover;
+
+}
+h1{
+	color:navy;
+	 text-align:center;
+	 font-size: 70px;
+}
+h2{
+	font-size:30px;
+	color:black;
+}
+p{
+	color :black;
+	font-size: 40px;
+}
+.menu{
+	
+	background-color:#d2f1cd;
+	float: center;
+	display: block;
+	color:red;
+	text-align:left;
+	padding: 5px ;
+	text-decoration : none;
+	color:rgb(152, 234, 177);
+}
+.menu li{
+	display:inline-block;
+	padding: 5px;
+}
+td{
+	text-align:center;
+	font: size 40px;}
+
+	.copon{
+		text-align:center ;
+		font-size: 30px;
+	}
+	a:hover{
+		background-color:white}
+ 
+ .img{
+	height: 700px;
+	width: 600px;
+ }
+ .plant{
+	color:black;
+	font-size: 30px;
+	float: center;
+	text-decoration : none;
+
+ }
+ .Antherium{
+	display:inline;
+
+ }
